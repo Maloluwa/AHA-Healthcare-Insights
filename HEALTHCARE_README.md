@@ -10,7 +10,7 @@
 
 ## 📌 Project Overview
 
-This project analyzes **10,000 patient records** spanning November 2018 to November 2023 from hospitals in the Aha region. Using Microsoft Excel exclusively — from raw data cleaning through to interactive dashboards — the analysis uncovers actionable patterns in patient demographics, medical conditions, billing, and hospital performance.
+This project analyzes **10,000 patient records** spanning November 2018 to November 2023 from hospitals in the Aha region. Using Microsoft Excel exclusively from raw data cleaning through to interactive dashboards. The analysis uncovers actionable patterns in patient demographics, medical conditions, billing, and hospital performance.
 
 **Key Questions Answered:**
 - Which demographics are most affected by specific medical conditions?
@@ -41,7 +41,7 @@ The raw dataset contained patient demographics, medical records, billing data, a
 
 **Highlights:**
 - 10,000 total patients; females slightly outnumber males (51% vs 49%)
-- Largest age group: 25–39 years (23.73%) — a notably young patient population
+- Largest age group: 25–39 years (23.73%) a notably young patient population
 - AB- is the most common blood type despite being rare in the general population
 - Cancer is the leading condition among females; Hypertension leads among males
 
@@ -104,8 +104,8 @@ The raw dataset contained patient demographics, medical records, billing data, a
 ## 💡 Recommendations
 
 1. **Prioritise chronic disease management** for the 40–69 age group, particularly for the high-volume conditions of Asthma, Cancer, and Hypertension
-2. **Reduce prolonged hospital stays** through standardised clinical pathways and early discharge planning — stays of 21–30 days are costly yet do not produce better outcomes
-3. **Investigate low treatment effectiveness** — with only 33% of cases yielding effective outcomes, clinical protocols especially for Asthma and Hypertension need review
+2. **Reduce prolonged hospital stays** through standardised clinical pathways and early discharge planning, stays of 21–30 days are costly yet do not produce better outcomes
+3. **Investigate low treatment effectiveness** with only 33% of cases yielding effective outcomes, clinical protocols especially for Asthma and Hypertension need review
 4. **Plan resources around admission peaks** in late May and Q4 to prevent capacity strain
 5. **Optimise insurance contract strategies** by leveraging the high billing performance of Diamond and Aetna plans
 6. **Address doctor underutilisation** through better patient-to-doctor allocation systems
@@ -140,6 +140,6 @@ The raw dataset contained patient demographics, medical records, billing data, a
 ## 👤 About the Author
 
 **Tiwa Daodu** — Data Analyst  
-📧 *[your email here]*  
-🔗 *[your LinkedIn here]*  
+📧 *daodutiwaloluwa@gmail.com*
+🔗 *linkedin.com/in/tiwaloluwadaodu31*
 🌍 Lagos, Nigeria
